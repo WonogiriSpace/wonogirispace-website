@@ -1,6 +1,6 @@
 ---
 title: raxober
-image: /images/authors/john-doe.jpg
+image: /images/authors/raxober.png
 description: Raxober
 social:
   github: https://www.github.com/raxober

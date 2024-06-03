@@ -2,7 +2,7 @@
 title: "Peretas ; Kriminal atau Pahlawan?"
 description: "Peretas : Kriminal atau Pahlawan?"
 date: 2024-05-13
-image: "/images/posts/hacker_kriminal_atau_pahlawan.png"
+image: "/images/posts/peretas_kriminal_atau_pahlawan/featuredimage.png"
 categories: ["Hacking", "Bug Bounty"]
 authors: ["raxober"]
 tags: ["hacker", "peretas"]
