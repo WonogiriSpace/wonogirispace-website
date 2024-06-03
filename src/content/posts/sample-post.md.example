@@ -1,0 +1,16 @@
+---
+title: "Judul"
+description: "Deskripsi (Meta)"
+date: 2024-04-05
+image: "/path/ke/gambar.jpg"
+authors: ["Nama Penulis"]
+tags: ["Tags", "tag"]
+categories: ["Kategori"]
+---
+
+Isi artikel. 
+
+Referensi Markdown bisa dilihat pada file */src/content/pages/elements.mdx*.
+
+Versi render : https://wonogiri.space/elements
+

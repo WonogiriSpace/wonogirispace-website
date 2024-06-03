@@ -1,0 +1,34 @@
+{
+  "site": {
+    "title": "Wonogiri Space",
+    "base_url": "https://wonogiri.space",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "160",
+    "logo_height": "80",
+    "logo_text": "Wonogiri Space"
+  },
+
+  "settings": {
+    "pagination": 5,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "Wonogiri Space",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Wonogiri Space"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2024 Wonogiri Space"
+  },
+
+  "contactinfo": {
+    "address": "Kabupaten Wonogiri, Provinsi Jawa Tengah",
+    "email": "hi@wonogiri.space"
+  }
+}
