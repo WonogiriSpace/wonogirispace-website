@@ -1,9 +1,9 @@
 ---
-title: agengws
+title: Ageng
 image: /images/authors/agengws.png
-description: this is meta description
+description: Ageng
 social:
-  github: https://www.github.com/agengws
+  github: https://www.github.com/c2a
 ---
 
 Lorem Ipsum.

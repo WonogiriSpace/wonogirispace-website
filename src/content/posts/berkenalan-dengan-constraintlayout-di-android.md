@@ -4,7 +4,7 @@ description: "Berkenalan Dengan Constraint Layout di Android"
 date: 2024-05-10
 image: "/images/posts/berkenalan-dengan-constraint-layout/constraintlayout-1.png"
 categories: ["Android", "Application Development"]
-authors: ["agengws"]
+authors: ["Ageng"]
 tags: ["android", "mobile", "development"]
 draft: false
 ---

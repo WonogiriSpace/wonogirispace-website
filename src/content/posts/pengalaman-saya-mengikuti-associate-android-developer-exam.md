@@ -4,7 +4,7 @@ description: "Pengalaman Saya Mengikuti Associate Android Developer Exam"
 date: 2024-05-11
 image: "/images/posts/pengalaman-aad-exam/image1.png"
 categories: ["Android", "Application Development"]
-authors: ["agengws"]
+authors: ["Ageng"]
 tags: ["android", "mobile", "development"]
 draft: false
 ---
