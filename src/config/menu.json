@@ -1,43 +1,12 @@
 {
   "main": [
     {
-      "name": "Home",
-      "url": "/"
+      "name": "Categories",
+      "url": "/categories"
     },
     {
-      "name": "Tentang Kami",
-      "url": "/tentang-kami"
-    },
-    {
-      "name": "Kontak",
-      "url": "/kontak"
-    },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
-        }
-      ]
+      "name": "Tags",
+      "url": "/tags"
     }
   ],
   "footer": [
@@ -46,16 +15,12 @@
       "url": "/tentang-kami"
     },
     {
+      "name": "Authors",
+      "url": "/authors"
+    },
+    {
       "name": "Kontak",
       "url": "/kontak"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
     }
   ]
 }
