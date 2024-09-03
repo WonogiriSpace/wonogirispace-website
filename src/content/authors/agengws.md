@@ -6,4 +6,4 @@ social:
   github: https://www.github.com/c2a
 ---
 
-Lorem Ipsum.
+Ageng.
