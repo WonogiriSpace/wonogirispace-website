@@ -1,6 +1,6 @@
 ---
 title: Ageng
-image: /images/authors/agengws.png
+image: /images/authors/ageng.png
 description: Ageng
 social:
   github: https://www.github.com/c2a
