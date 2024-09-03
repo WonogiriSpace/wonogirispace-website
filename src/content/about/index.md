@@ -11,6 +11,8 @@ Wonogiri Space berdiri sebagai wadah—platform yang terbuka untuk semua.
 
 Setiap orang berhak berkontribusi ataupun membaca konten-konten pada Wonogiri Space.
 
-Isi dari setiap konten sepenuhnya menjadi tanggung jawab dari kontributor.
+Semua penulis bertanggung jawab penuh atas apapun yang mereka tulis.
+
+Konten yang disediakan di Wonogiri Space hanya untuk tujuan edukasi. Kami tidak bertanggung jawab atas cara pembaca menggunakan atau menerapkan konten tersebut. Semua tanggung jawab terkait penggunaan konten sepenuhnya ada pada pembaca.
 
 Menggunakan situs ini berarti menyetujui persyaratan diatas.
