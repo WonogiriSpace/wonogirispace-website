@@ -3,7 +3,7 @@ title: "Cara Peretas Mendapatkan Penghasilan Secara Legal"
 description: "Cara Peretas Mendapatkan Penghasilan Secara Legal"
 date: 2024-08-22
 categories: ["Hacking", "Bug Bounty"]
-authors: ["raxober"]
+authors: ["c2a"]
 tags: ["hacker", "peretas"]
 draft: false
 ---
